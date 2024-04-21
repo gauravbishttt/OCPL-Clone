@@ -100,7 +100,6 @@ nav{
     cursor: pointer;
     transition-duration: 0.3s;
     transition-property: all;
-    transition-delay: 0.3s;
     transition-timing-function: cubic-bezier(0.4,0,0.2,1);
     margin-right: 10px;
 
@@ -113,7 +112,7 @@ nav{
 .hero{
     z-index: 10;
     position: absolute;
-    top: 15%;
+    top:  13%;
     left: 15%;
 }
 
@@ -246,7 +245,7 @@ nav{
     gap: 20px;
     line-height: 2rem;
     text-align: start;
-    flex-wrap: wrap;
+    
 }
 
 .value .content h3{
@@ -260,7 +259,7 @@ nav{
 }
 
 .blockchain{
-    width: 50%;
+    width: 40%;
     margin-right: 2rem;
     margin-bottom: 2rem;
 }
@@ -272,7 +271,7 @@ nav{
 }
 
 .affordable{
-    width: 50%;
+    width: 60%;
 }
 
 .blockchain ul li{
